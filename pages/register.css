@@ -1,0 +1,107 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+    background-image: url(regist-img.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: new time roman;
+}
+h3{
+    font-size: 40px;
+    color: white;
+    margin-top: 200px;
+}
+.btn-outline-success {
+    color: #848c2f;
+    border-color: #848c2f;
+    margin-left: 100px;
+    height: 50px;
+  }
+  
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color:#848c2f;
+    border-color: #848c2f;
+  }
+  .btn-outline-danger {
+      background-color: brown;
+      color: #fff;
+  }
+  .nav-link {
+      color:gray;
+  }
+  .home {
+    color: black;
+    border-bottom: 3px dashed brown;
+}
+  .nav-link:hover{
+      color: black;
+  } 
+.art{
+    width: 130px;
+    margin-right: 200px;
+}
+.icons-sec {
+    margin-left: 60px;
+}
+.icons {
+    display: inline-block;
+    background-color: #fcc044;
+    width: 25px;
+    height: 25px;
+    border-radius: 40px;
+    text-align: center;
+    margin-right: 10px;
+}
+.icons:hover {
+    color: black;
+    opacity: .7;
+}
+.icon-link {
+    color: white;
+    margin: 5px;
+    text-decoration: aqua;
+}
+
+.label{
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 20px;
+}
+h2 {
+    margin-left: 120px;
+    color: wheat;
+}
+.container {
+    background-color: black;
+    opacity: 70%;
+    padding-left: 70px;
+}
+footer {
+    background-color: #422c18;
+    padding: 130px;
+    margin-top: 20px;
+}
+ footer .About span{
+     color: white;
+     font-weight: bold;
+     display: block;
+ }
+ footer .About p {
+     color: gray;
+ }
+ .About a {
+     text-decoration: none;
+     color: #fcc044;
+ }
+ .icons-sec1 {
+     text-align: center;
+     padding-right: 60px;
+     padding-top: 50px;
+ }
+ hr {
+    color: grey;
+    width: 15%;
+}
